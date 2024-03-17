@@ -1,0 +1,576 @@
+titleId	isOriginalTitle	title	region	language	types
+tt0000001	0	Карменсіта	UA	\N	imdbDisplay
+tt0000001	0	Carmencita	DE	\N	\N
+tt0000001	0	Carmencita - spanyol tánc	HU	\N	imdbDisplay
+tt0000001	0	Καρμενσίτα	GR	\N	imdbDisplay
+tt0000001	0	Карменсита	RU	\N	imdbDisplay
+tt0000001	0	Carmencita	US	\N	imdbDisplay
+tt0000001	1	Carmencita	\N	\N	original
+tt0000001	0	カルメンチータ	JP	ja	imdbDisplay
+tt0000002	1	Le clown et ses chiens	\N	\N	original
+tt0000002	0	Le clown et ses chiens	FR	\N	imdbDisplay
+tt0000002	0	A bohóc és kutyái	HU	\N	imdbDisplay
+tt0000002	0	Der Clown und seine Hunde	DE	\N	\N
+tt0000002	0	Clovnul si cainii sai	RO	\N	imdbDisplay
+tt0000002	0	Клоун и его собаки	RU	\N	imdbDisplay
+tt0000002	0	The Clown and His Dogs	US	\N	\N
+tt0000002	0	道化師と犬	JP	ja	imdbDisplay
+tt0000003	0	Sarmanul Pierrot	RO	\N	imdbDisplay
+tt0000003	0	Szegény Pierrot	HU	\N	imdbDisplay
+tt0000003	0	哀れなピエロ	JP	ja	imdbDisplay
+tt0000003	0	Бідний П'єро	UA	\N	imdbDisplay
+tt0000003	0	Бедный Пьеро	RU	\N	imdbDisplay
+tt0000003	1	Pauvre Pierrot	\N	\N	original
+tt0000003	0	Poor Pierrot	GB	\N	imdbDisplay
+tt0000003	0	Pauvre Pierrot	FR	\N	imdbDisplay
+tt0000003	0	Armer Pierrot	DE	\N	\N
+tt0000004	1	Un bon bock	\N	\N	original
+tt0000004	0	Un bon bock	FR	\N	imdbDisplay
+tt0000004	0	Ein gutes Glas Bier	DE	\N	\N
+tt0000004	0	Un ţap de bere	RO	\N	imdbDisplay
+tt0000004	0	Полная кружка пива	RU	\N	imdbDisplay
+tt0000004	0	一杯のビール	JP	ja	imdbDisplay
+tt0000004	0	A Good Beer	\N	\N	\N
+tt0000004	0	Egy jó pohár sör	HU	\N	imdbDisplay
+tt0000005	0	Blacksmith Scene	US	\N	imdbDisplay
+tt0000005	1	Blacksmith Scene	\N	\N	original
+tt0000005	0	The Blacksmith's Forge	GB	\N	\N
+tt0000005	0	Blacksmithing Scene	US	\N	alternative
+tt0000005	0	Ковальська сцена	UA	\N	imdbDisplay
+tt0000005	0	Сцена в кузне	RU	\N	imdbDisplay
+tt0000005	0	Blacksmith Scene	CA	en	imdbDisplay
+tt0000005	0	Blacksmith Shop	GB	\N	\N
+tt0000005	0	Blacksmith Scene #1	US	\N	alternative
+tt0000005	0	Blacksmithing	US	\N	\N
+tt0000005	0	Schmiedszene	DE	\N	\N
+tt0000005	0	A patkolókovács	HU	\N	imdbDisplay
+tt0000006	0	Китайский опиумный притон	RU	\N	imdbDisplay
+tt0000006	0	Chinezes Fumadores de Ópio	PT	\N	\N
+tt0000006	0	Chinese Opium Den	US	\N	imdbDisplay
+tt0000006	0	Kínai ópiumbarlang	HU	\N	imdbDisplay
+tt0000006	1	Chinese Opium Den	\N	\N	original
+tt0000006	0	Chinesische Opiumhöhle	DE	\N	\N
+tt0000007	0	Corbett and Courtney Before the Kinetograph	US	\N	imdbDisplay
+tt0000007	1	Corbett and Courtney Before the Kinetograph	\N	\N	original
+tt0000007	0	A Corbett-Courtney bokszmeccs	HU	\N	imdbDisplay
+tt0000007	0	キネトグラフの前のコーベットとコートニー	JP	ja	imdbDisplay
+tt0000007	0	The Corbett-Courtney Fight	US	\N	alternative
+tt0000007	0	Jim Corbett vs. Peter Courtney	US	\N	alternative
+tt0000007	0	Edison Kinetoscopic Record of Boxers	\N	\N	\N
+tt0000007	0	Корбетт и Кортни перед кинематографом	RU	\N	imdbDisplay
+tt0000007	0	Corbett und Courtney vor dem Kinetographen	DE	\N	\N
+tt0000008	0	Fred Ott's Sneeze	\N	\N	\N
+tt0000008	0	Edison kinetoskopische Aufnahme eines Niesens	DE	\N	\N
+tt0000008	0	Edison asszisztense tüsszent	HU	\N	imdbDisplay
+tt0000008	0	フレッド・オット－のくしゃみ	JP	ja	imdbDisplay
+tt0000008	0	Edison Kinetoscopic Record of a Sneeze, January 7, 1894	US	\N	\N
+tt0000008	0	Edison Kinetoscopic Record of a Sneeze	US	\N	imdbDisplay
+tt0000008	1	Edison Kinetoscopic Record of a Sneeze	\N	\N	original
+tt0000008	0	Fred Otts Niesen	DE	\N	\N
+tt0000008	0	Чих, записанный на кинетоскоп Эдисона	RU	\N	imdbDisplay
+tt0000008	0	The Films of Thomas A Edison presented by Raymond Rohauer	US	\N	\N
+tt0000008	0	Чхання Фреда Отта	UA	\N	imdbDisplay
+tt0000009	1	Miss Jerry	\N	\N	original
+tt0000009	0	Miss Jerry	AU	\N	imdbDisplay
+tt0000009	0	Fräulein Jerry	DE	\N	\N
+tt0000009	0	Miss Jerry	HU	\N	imdbDisplay
+tt0000009	0	Miss Jerry	US	\N	imdbDisplay
+tt0000010	0	Вихід робітників із фабрики	UA	\N	imdbDisplay
+tt0000010	0	La salida de la fábrica Lumière en Lyon	ES	\N	imdbDisplay
+tt0000010	0	Työntekijät poistuvat Lumière-tehtaalta	FI	\N	\N
+tt0000010	0	A munkaidő vége	HU	\N	imdbDisplay
+tt0000010	0	Wyjście robotników z fabryki	PL	\N	imdbDisplay
+tt0000010	0	Lumière-fabrikens arbetare	FI	sv	\N
+tt0000010	0	Exiting the Factory	US	\N	imdbDisplay
+tt0000010	0	La sortie de l'usine Lumière	FR	\N	alternative
+tt0000010	1	La sortie de l'usine Lumière à Lyon	\N	\N	original
+tt0000010	0	La sortie des usines Lumière	FR	\N	alternative
+tt0000010	0	La salida de los obreros de la fábrica Lumière	AR	\N	\N
+tt0000010	0	Радници напуштају фабрику Лимијер	RS	\N	imdbDisplay
+tt0000010	0	Leaving the Factory	US	\N	imdbDisplay
+tt0000010	0	Salida de obreros de la fábrica Lumiere	UY	\N	\N
+tt0000010	0	La sortie des ouvriers de l'usine Lumière	FR	\N	\N
+tt0000010	0	L'uscita dalle fabbriche Lumière	IT	\N	imdbDisplay
+tt0000010	0	Выход рабочих с фабрики 'Люмьер'	RU	\N	imdbDisplay
+tt0000010	0	A Saída dos Operários da Fábrica Lumière	BR	\N	\N
+tt0000010	0	Employees Leaving the Lumière Factory	US	\N	alternative
+tt0000010	0	Sortie d'usine	FR	\N	\N
+tt0000010	0	La sortie de l'usine Lumière à Lyon	FR	\N	imdbDisplay
+tt0000010	0	La sortie de l'usine Lumière à Lyon	CA	en	imdbDisplay
+tt0000010	0	Arbeiter verlassen die Lumière-Werke	DE	\N	imdbDisplay
+tt0000010	0	Workers Leaving the Lumière Factory	US	\N	imdbDisplay
+tt0000010	0	工場の出口	JP	ja	imdbDisplay
+tt0000011	0	Akrobatisches Potpourri	DE	\N	imdbDisplay
+tt0000011	1	Akrobatisches Potpourri	\N	\N	original
+tt0000011	0	Акробатическая смесь	RU	\N	imdbDisplay
+tt0000012	0	Juna saapuu asemalle	FI	\N	\N
+tt0000012	0	Ankunft eines Zuges in La Ciotat	DE	\N	imdbDisplay
+tt0000012	0	A vonat érkezése	HU	\N	imdbDisplay
+tt0000012	0	Прибытие поезда на вокзал города Ла-Сьота	RU	\N	imdbDisplay
+tt0000012	0	Toget kører ind på Le Ciotat	DK	\N	\N
+tt0000012	0	Bir trenin La Ciotat garına varışı	TR	tr	imdbDisplay
+tt0000012	0	The Arrival of a Train	GB	\N	imdbDisplay
+tt0000012	0	Train Pulling into a Station	GB	\N	alternative
+tt0000012	0	L'arrivée d'un train à La Ciotat	FR	\N	imdbDisplay
+tt0000012	0	L'arrivo di un treno nella stazione di La Ciotat	IT	\N	\N
+tt0000012	0	The Arrival of a Train	US	\N	imdbDisplay
+tt0000012	0	L'arrivée d'un train en gare de La Ciotat	FR	\N	alternative
+tt0000012	0	Przyjazd pociągu na stację	PL	\N	imdbDisplay
+tt0000012	0	The Arrival of a Train	XWW	en	imdbDisplay
+tt0000012	0	La llegada de un tren a la estación de La Ciotat	ES	\N	imdbDisplay
+tt0000012	0	L'arrivée d'un train à La Ciotat	CA	en	imdbDisplay
+tt0000012	0	ラ・シオタ駅への列車の到着	JP	ja	imdbDisplay
+tt0000012	0	Прибуття потяга на вокзал Ла-Сьота	UA	\N	imdbDisplay
+tt0000012	0	The Arrival of a Train	XEU	en	imdbDisplay
+tt0000012	0	L'arrivo di un treno alla stazione di La Ciotat	IT	\N	\N
+tt0000012	0	The Arrival of a Train	XWW	\N	imdbDisplay
+tt0000012	0	The Arrival of the Mail Train	US	\N	alternative
+tt0000012	1	L'arrivée d'un train à La Ciotat	\N	\N	original
+tt0000012	0	Príchod vlaku do stanice La Ciotat	SK	\N	imdbDisplay
+tt0000012	0	Долазак воза на станицу	RS	\N	imdbDisplay
+tt0000012	0	A Chegada de um Trem à Estação	BR	\N	imdbDisplay
+tt0000012	0	Tåget anländer till stationen	FI	sv	\N
+tt0000012	0	The Arrival of a Train at La Ciotat	XWW	en	alternative
+tt0000013	0	A kongresszus tagjainak partraszállása	HU	\N	imdbDisplay
+tt0000013	0	The Photographical Congress Arrives in Lyon	XWW	en	imdbDisplay
+tt0000013	0	Arrivée des congressistes à Neuville-sur-Saône	FR	\N	alternative
+tt0000013	0	Прибуття делегатів на фотоконгрес у Ліоні	UA	\N	imdbDisplay
+tt0000013	0	Fotografi napuštaju palubu u Lionu	RS	\N	imdbDisplay
+tt0000013	0	The Photographical Congress Arrives in Lyon	GB	\N	imdbDisplay
+tt0000013	0	El desembarco del congreso de fotografía en Lyon	ES	\N	imdbDisplay
+tt0000013	1	Le débarquement du congrès de photographie à Lyon	\N	\N	original
+tt0000013	0	Le débarquement du congrès de photographie à Lyon	FR	\N	imdbDisplay
+tt0000013	0	Прибытие делегатов на фотоконгресс в Лионе	RU	\N	imdbDisplay
+tt0000013	0	Le débarquement des congressistes à Neuville	FR	\N	alternative
+tt0000013	0	The Photographical Congress Arrives in Lyon	US	\N	imdbDisplay
+tt0000013	0	Neuville-sur-Saône: Débarquement du congrès des photographes à Lyon	FR	\N	imdbDisplay
+tt0000013	0	Przybycie delegatów na kongres fotograficzny w Lyonie	PL	\N	imdbDisplay
+tt0000014	0	O Regador Regado	BR	\N	imdbDisplay
+tt0000014	0	The Sprayer Sprayed	US	\N	alternative
+tt0000014	0	L'arroseur arrosé	FR	\N	imdbDisplay
+tt0000014	1	L'arroseur arrosé	\N	\N	original
+tt0000014	0	Заливена вода	RS	\N	imdbDisplay
+tt0000014	0	The Waterer Watered	US	\N	imdbDisplay
+tt0000014	0	Arroseur et arrosé	FR	\N	alternative
+tt0000014	0	Puutarhuri	FI	\N	\N
+tt0000014	0	Pokropený kropic	CZ	\N	imdbDisplay
+tt0000014	0	Политий поливальник	UA	\N	imdbDisplay
+tt0000014	0	The Sprinkler Sprinkled	US	\N	imdbDisplay
+tt0000014	0	Der begossene Gärtner	DE	\N	imdbDisplay
+tt0000014	0	El regador regado	ES	\N	imdbDisplay
+tt0000014	0	Trädgårsmästarn	FI	sv	\N
+tt0000014	0	Le jardinier et le petit espiègle	FR	\N	alternative
+tt0000014	0	Политый поливальщик	RU	\N	imdbDisplay
+tt0000014	0	Tables Turned on the Gardener	US	\N	alternative
+tt0000014	0	Gartneren vandes	DK	\N	\N
+tt0000014	0	A megöntözött öntöző	HU	\N	imdbDisplay
+tt0000014	0	Vattnaren bevattnad	SE	\N	\N
+tt0000014	0	Le jardinier	FR	\N	\N
+tt0000014	0	Oblany ogrodnik	PL	\N	\N
+tt0000014	0	L'innaffiatore annaffiato	IT	\N	\N
+tt0000014	0	水をかけられた散水夫	JP	ja	imdbDisplay
+tt0000015	0	Вoкруг кабинки	RU	\N	imdbDisplay
+tt0000015	0	Egy kabin körül	HU	\N	imdbDisplay
+tt0000015	0	Around a Bathing Hut	US	\N	\N
+tt0000015	0	Autour d'une cabine	FR	\N	imdbDisplay
+tt0000015	1	Autour d'une cabine	\N	\N	original
+tt0000015	0	Навколо кабінки	UA	\N	imdbDisplay
+tt0000016	0	Båten lämnar hamnet	FI	sv	\N
+tt0000016	0	Łódź wypływająca z portu	PL	\N	imdbDisplay
+tt0000016	0	Brod napušta luku	RS	\N	imdbDisplay
+tt0000016	0	Boat Leaving the Port	XWW	en	imdbDisplay
+tt0000016	0	La sortie du port	FR	\N	alternative
+tt0000016	0	Лодка выходит из порта	RU	\N	imdbDisplay
+tt0000016	0	Kikötőből távozó bárka	HU	\N	imdbDisplay
+tt0000016	0	Boat Leaving the Port	GB	\N	imdbDisplay
+tt0000016	0	Vene lähtee satamasta	FI	\N	\N
+tt0000016	0	Barque sortant du port	FR	\N	imdbDisplay
+tt0000016	0	Boat Leaving the Port	US	\N	imdbDisplay
+tt0000016	1	Barque sortant du port	\N	\N	original
+tt0000017	1	Italienischer Bauerntanz	\N	\N	original
+tt0000017	0	Bauerntanz zweier Kinder	DE	\N	\N
+tt0000017	0	Italienischer Bauerntanz	DE	\N	imdbDisplay
+tt0000017	0	Итальянский крестьянский танец	RU	\N	imdbDisplay
+tt0000018	0	Das boxende Känguruh	DE	\N	imdbDisplay
+tt0000018	0	Cangurul boxer	RO	\N	imdbDisplay
+tt0000018	1	Das boxende Känguruh	\N	\N	original
+tt0000018	0	Бокс с кенгуру	RU	\N	imdbDisplay
+tt0000018	0	Mr. Delaware and the Boxing Kangaroo	GB	\N	\N
+tt0000019	0	The Clown Barber	GB	\N	imdbDisplay
+tt0000019	1	The Clown Barber	\N	\N	original
+tt0000020	1	The Derby 1895	\N	\N	original
+tt0000020	0	Дерби 1895	RU	\N	imdbDisplay
+tt0000020	0	The Derby 1895	GB	\N	imdbDisplay
+tt0000022	0	The Blacksmiths	US	\N	\N
+tt0000022	0	Kowale	PL	\N	imdbDisplay
+tt0000022	0	Кузнецы	RU	\N	imdbDisplay
+tt0000022	0	Los herreros	ES	\N	imdbDisplay
+tt0000022	0	Ковалі	UA	\N	imdbDisplay
+tt0000022	0	Les forgerons	FR	\N	imdbDisplay
+tt0000022	0	Blacksmith Scene	US	\N	\N
+tt0000022	1	Les forgerons	\N	\N	original
+tt0000022	0	Blacksmiths at Work	GB	\N	\N
+tt0000023	0	Море	RU	\N	imdbDisplay
+tt0000023	0	A Dip in the Sea	XWW	en	alternative
+tt0000023	0	Meri	FI	\N	\N
+tt0000023	0	La Mer	FR	\N	alternative
+tt0000023	0	Baño en el mar	ES	\N	imdbDisplay
+tt0000023	0	Kapiel w morzu	PL	\N	imdbDisplay
+tt0000023	0	Hafvet	FI	sv	\N
+tt0000023	0	Plivanje u moru	RS	\N	imdbDisplay
+tt0000023	0	Морське купання	UA	\N	imdbDisplay
+tt0000023	0	Sea Bathing	GB	\N	\N
+tt0000023	0	The Sea	XWW	en	imdbDisplay
+tt0000023	0	The Sea	US	\N	imdbDisplay
+tt0000023	0	The Sea	GB	\N	imdbDisplay
+tt0000023	0	Meri ihmeellisine kylpykuvauksineen	FI	\N	\N
+tt0000023	1	Baignade en mer	\N	\N	original
+tt0000023	0	Baignade en mer	FR	\N	imdbDisplay
+tt0000024	1	Opening of the Kiel Canal	\N	\N	original
+tt0000024	0	Eroffnung des Nordostsee Kanals	DE	\N	imdbDisplay
+tt0000024	0	Inauguration of the Kiel Canal by Kaiser Wilhelm II	GB	\N	alternative
+tt0000024	0	A Kieli-csatorna megnyitása	HU	\N	imdbDisplay
+tt0000024	0	Opening of the Kiel Canal	GB	\N	imdbDisplay
+tt0000025	0	The Oxford and Cambridge University Boat Race	GB	\N	imdbDisplay
+tt0000025	1	The Oxford and Cambridge University Boat Race	\N	\N	original
+tt0000026	0	Et spil kort	DK	\N	\N
+tt0000026	0	Kortspelet	FI	sv	\N
+tt0000026	0	Партія в карти	UA	\N	imdbDisplay
+tt0000026	0	Ett parti ecarté	FI	sv	\N
+tt0000026	0	Партия в карты	RU	\N	imdbDisplay
+tt0000026	0	Partia kart	PL	\N	imdbDisplay
+tt0000026	0	Card Game	\N	\N	\N
+tt0000026	0	Korttipeli	FI	\N	\N
+tt0000026	0	Game of Cards	GB	\N	\N
+tt0000026	0	The Messers. Lumière at Cards	US	\N	\N
+tt0000026	0	Kártyaparti	HU	\N	imdbDisplay
+tt0000026	0	Ecarté peliä	FI	\N	\N
+tt0000026	1	Partie d'écarté	\N	\N	original
+tt0000026	0	Partie d'écarté	FR	\N	\N
+tt0000027	0	Площа Кордельє в Ліоні	UA	\N	imdbDisplay
+tt0000027	0	Cordeliers' Square in Lyon	GB	\N	imdbDisplay
+tt0000027	0	Cordeliers' Square in Lyon	US	\N	imdbDisplay
+tt0000027	0	Place des Cordeliers à Lyon	FR	\N	imdbDisplay
+tt0000027	0	Площадь Корделье в Лионе	RU	\N	imdbDisplay
+tt0000027	1	Place des Cordeliers à Lyon	\N	\N	original
+tt0000027	0	Plaza de los Cordeliers en Lyon	ES	\N	imdbDisplay
+tt0000027	0	Cordeliers Square, Lyons, France	GB	\N	\N
+tt0000027	0	Cordeliers' Square in Lyon	XWW	en	imdbDisplay
+tt0000028	0	A Pesca do Peixe Dourado	BR	\N	imdbDisplay
+tt0000028	1	La pêche aux poissons rouges	\N	\N	original
+tt0000028	0	La pêche aux poissons rouges	FR	\N	imdbDisplay
+tt0000028	0	Виловлювання червоних рибок	UA	\N	imdbDisplay
+tt0000028	0	Fishing for Goldfish	XWW	en	imdbDisplay
+tt0000028	0	Zabawa z rybka	PL	\N	imdbDisplay
+tt0000028	0	Fishing for Goldfish	GB	\N	imdbDisplay
+tt0000028	0	Вылaвливание красных рыбок	RU	\N	imdbDisplay
+tt0000028	0	Fishing for Goldfish	US	\N	imdbDisplay
+tt0000029	0	Repas de bébé	FR	\N	imdbDisplay
+tt0000029	0	Karmienie dziecka	PL	\N	imdbDisplay
+tt0000029	1	Repas de bébé	\N	\N	original
+tt0000029	0	Repas de bébé	DE	\N	imdbDisplay
+tt0000029	0	Baby's Meal	GB	\N	imdbDisplay
+tt0000029	0	Le goûter de bébé	FR	\N	alternative
+tt0000029	0	La comida del bebé	ES	\N	imdbDisplay
+tt0000029	0	Сніданок немовляти	UA	\N	imdbDisplay
+tt0000029	0	Lapsen ateria	FI	\N	\N
+tt0000029	0	Baby mades	DK	\N	\N
+tt0000029	0	Baby's Dinner	US	\N	\N
+tt0000029	0	A kisbaba reggelije	HU	\N	imdbDisplay
+tt0000029	0	La colazione del bimbo	IT	\N	imdbDisplay
+tt0000029	0	Вечера за бебу	RS	\N	imdbDisplay
+tt0000029	0	Barnets måltid	FI	sv	\N
+tt0000029	0	Baby's Lunch	US	\N	\N
+tt0000029	0	Feeding the Baby	US	\N	\N
+tt0000029	0	Le repas de bébé	NZ	en	festival
+tt0000029	0	La comida del bebé	UY	\N	\N
+tt0000029	0	Le déjeuner de bébé	FR	\N	alternative
+tt0000029	0	Baby's Meal	XWW	en	imdbDisplay
+tt0000029	0	O Almoço do Bebê	BR	\N	imdbDisplay
+tt0000029	0	Завтрак младенца	RU	\N	imdbDisplay
+tt0000029	0	Baby's Meal	US	\N	imdbDisplay
+tt0000030	0	Бушующее море, вызвавшее наводнение в Дувре	RU	\N	imdbDisplay
+tt0000030	1	Rough Sea at Dover	\N	\N	original
+tt0000030	0	A hullámzó tenger Dovernél	HU	\N	imdbDisplay
+tt0000030	0	Sea Waves at Dover	GB	\N	alternative
+tt0000030	0	Rough Sea at Dover	GB	\N	imdbDisplay
+tt0000030	0	A South-West Storm in Dover	GB	\N	alternative
+tt0000030	0	A South-Wester	GB	\N	alternative
+tt0000031	0	Le saut à la couverture	FR	\N	imdbDisplay
+tt0000031	0	Jumping the Blanket	GB	\N	imdbDisplay
+tt0000031	0	Sotilaskuva	FI	\N	\N
+tt0000031	0	Jumping the Blanket	XWW	en	imdbDisplay
+tt0000031	0	En soldatscen	FI	sv	\N
+tt0000031	0	Прыжок на брезент	RU	\N	imdbDisplay
+tt0000031	0	Saut à la couverture	FR	\N	\N
+tt0000031	0	Brimade dans une caserne	FR	\N	alternative
+tt0000031	0	Jumping the Blanket	US	\N	imdbDisplay
+tt0000031	0	Стрибок через брезент	UA	\N	imdbDisplay
+tt0000031	1	Le saut à la couverture	\N	\N	original
+tt0000032	0	Dans serpentin	RO	\N	imdbDisplay
+tt0000032	0	Serpentinen Tanz	DE	\N	alternative
+tt0000032	1	Die Serpentintänzerin	\N	\N	original
+tt0000032	0	Serpentintanz Mlle. Ancion	DE	\N	\N
+tt0000032	0	Серпантин	RU	\N	imdbDisplay
+tt0000033	0	Trick Riding	US	\N	\N
+tt0000033	0	Вольтижування	UA	\N	imdbDisplay
+tt0000033	0	A Acrobacia	BR	\N	imdbDisplay
+tt0000033	0	Horse Trick Riders	GB	\N	imdbDisplay
+tt0000033	0	Hyppyjä	FI	\N	\N
+tt0000033	0	Horse Trick Riders	XWW	en	imdbDisplay
+tt0000033	0	Horse Riders	XWW	en	alternative
+tt0000033	1	La voltige	\N	\N	original
+tt0000033	0	Вoльтижировка	RU	\N	imdbDisplay
+tt0000033	0	Horse Trick Riders	US	\N	imdbDisplay
+tt0000033	0	La voltige	FR	\N	imdbDisplay
+tt0000034	1	Arrivée d'un train gare de Vincennes	\N	\N	original
+tt0000034	0	Прибытие поезда на станцию в Венсене	RU	\N	imdbDisplay
+tt0000034	0	Arrivée d'un train gare de Vincennes	FR	\N	imdbDisplay
+tt0000034	0	Arrival of a Train at Vincennes Station	XWW	en	alternative
+tt0000035	0	Поливальщик	RU	\N	imdbDisplay
+tt0000035	0	L'arroseur	FR	\N	imdbDisplay
+tt0000035	1	L'arroseur	\N	\N	original
+tt0000035	0	The Sprinkler Sprinkled	XWW	en	alternative
+tt0000035	0	Watering the Flowers	US	\N	\N
+tt0000036	0	Awakening of Rip	US	\N	imdbDisplay
+tt0000036	1	Awakening of Rip	\N	\N	original
+tt0000036	0	Пробуждение Рипа	RU	\N	imdbDisplay
+tt0000037	0	Морское купание	RU	\N	imdbDisplay
+tt0000037	0	Sea Bathing	US	\N	imdbDisplay
+tt0000037	1	Baignade en mer	\N	\N	original
+tt0000037	0	Baignade en mer	FR	\N	imdbDisplay
+tt0000038	1	The Ball Game	\N	\N	original
+tt0000038	0	The Ball Game	US	\N	imdbDisplay
+tt0000039	1	Barnet Horse Fair	\N	\N	original
+tt0000039	0	Barnet Horse Fair	GB	\N	imdbDisplay
+tt0000040	0	Boat Leaving the Harbor at Trouville	US	\N	\N
+tt0000040	0	Barque sortant du port de Trouville	FR	\N	imdbDisplay
+tt0000040	1	Barque sortant du port de Trouville	\N	\N	original
+tt0000041	0	Snowball Fight	GB	\N	imdbDisplay
+tt0000041	0	Snowball Fight	US	\N	\N
+tt0000041	1	Bataille de neige	\N	\N	original
+tt0000041	0	A Batalha de Neve	BR	\N	imdbDisplay
+tt0000041	0	Игра в снежки	RU	\N	imdbDisplay
+tt0000041	0	Гра в сніжки	UA	\N	imdbDisplay
+tt0000041	0	Bataille de boules de neige	FR	\N	imdbDisplay
+tt0000041	0	Hógolyó csata	HU	\N	imdbDisplay
+tt0000041	0	Die Schneeballschlacht	DE	\N	imdbDisplay
+tt0000041	0	Bitwa na sniezki	PL	\N	imdbDisplay
+tt0000042	0	Seine nehrindeki gemiler	TR	tr	\N
+tt0000042	1	Bateau-mouche sur la Seine	\N	\N	original
+tt0000042	0	Bateau-mouche sur la Seine	FR	\N	imdbDisplay
+tt0000043	1	Batteuse à vapeur	\N	\N	original
+tt0000043	0	Batteuse à vapeur	FR	\N	imdbDisplay
+tt0000044	1	Le bivouac	\N	\N	original
+tt0000044	0	Le bivouac	FR	\N	imdbDisplay
+tt0000045	1	Les blanchisseuses	\N	\N	original
+tt0000045	0	Les blanchisseuses	FR	\N	imdbDisplay
+tt0000045	0	Mosónők	HU	\N	imdbDisplay
+tt0000045	0	The Washerwomen	US	\N	\N
+tt0000046	0	Bois de Boulogne	FR	\N	imdbDisplay
+tt0000046	0	Булонский лес	RU	\N	imdbDisplay
+tt0000046	1	Bois de Boulogne	\N	\N	original
+tt0000046	0	Bois de Boulogne (Porte de Madrid)	FR	\N	alternative
+tt0000047	1	Boulevard des Italiens	\N	\N	original
+tt0000047	0	Boulevard des Italiens	FR	\N	imdbDisplay
+tt0000047	0	Итальянский бульвар	RU	\N	imdbDisplay
+tt0000048	0	The Boxing Kangaroo	US	\N	imdbDisplay
+tt0000048	0	Боксирующий кенгуру	RU	\N	imdbDisplay
+tt0000048	0	The Boxing Kangaroo	GB	\N	imdbDisplay
+tt0000048	1	The Boxing Kangaroo	\N	\N	original
+tt0000049	1	Boxing Match; or, Glove Contest	\N	\N	original
+tt0000049	0	Boxing Match; or, Glove Contest	GB	\N	imdbDisplay
+tt0000050	1	Bébé et fillettes	\N	\N	original
+tt0000050	0	Bébé et fillettes	FR	\N	imdbDisplay
+tt0000050	0	Baby and Young Girls	US	\N	\N
+tt0000051	0	The Bohemian Encampment	US	\N	\N
+tt0000051	0	Gypsies at Home	US	\N	\N
+tt0000051	0	El campamento bohemio	XWW	es	\N
+tt0000051	0	Campement de bohémiens	FR	\N	imdbDisplay
+tt0000051	1	Campement de bohémiens	\N	\N	original
+tt0000052	0	Carga de rurales	MX	\N	imdbDisplay
+tt0000052	1	Carga de rurales	\N	\N	original
+tt0000052	0	Rurales Mexicanos al galope	MX	\N	\N
+tt0000052	0	Verpflichtung der Landpolizei	DE	\N	\N
+tt0000052	0	Desfile de rurales al galope el 16 de septiembre	\N	\N	\N
+tt0000053	0	A Chegada do Comboio Inaugural à Estação Central do Porto	PT	\N	imdbDisplay
+tt0000053	1	A Chegada do Comboio Inaugural à Estação Central do Porto	\N	\N	original
+tt0000054	0	A Merry-Go-Round	US	\N	\N
+tt0000054	1	Les chevaux de bois	\N	\N	original
+tt0000054	0	Les chevaux de bois	FR	\N	imdbDisplay
+tt0000055	0	Старьёвщик	RU	\N	imdbDisplay
+tt0000055	1	Le chiffonnier	\N	\N	original
+tt0000055	0	Le chiffonnier	FR	\N	imdbDisplay
+tt0000056	1	Uma Corrida de Touros no Campo Pequeno	\N	\N	original
+tt0000056	0	Uma Corrida de Touros no Campo Pequeno	GB	\N	imdbDisplay
+tt0000057	1	Cortège de tzar allant à Versailles	\N	\N	original
+tt0000057	0	Cortège de tzar allant à Versailles	FR	\N	imdbDisplay
+tt0000057	0	The Czar and His Cortege Going to Versailles	GB	\N	imdbDisplay
+tt0000058	0	The Czar's Cortege in the Bois de Boulogne	GB	\N	imdbDisplay
+tt0000058	1	Cortège de tzar au Bois de Boulogne	\N	\N	original
+tt0000058	0	Cortège de tzar au Bois de Boulogne	FR	\N	imdbDisplay
+tt0000059	0	Coronation of a Village Maiden	US	\N	\N
+tt0000059	1	Couronnement de la rosière	\N	\N	original
+tt0000059	0	Couronnement de la rosière	FR	\N	imdbDisplay
+tt0000060	1	Dancing Darkies	\N	\N	original
+tt0000060	0	Dancing Darkies	US	\N	imdbDisplay
+tt0000061	0	Dancing Girls	GB	\N	imdbDisplay
+tt0000061	1	Dancing Girls	\N	\N	original
+tt0000062	1	Danse serpentine	\N	\N	original
+tt0000062	0	Danse serpentine	FR	\N	imdbDisplay
+tt0000063	1	Dessinateur express	\N	\N	original
+tt0000063	0	Dessinateur express (M. Thiers)	FR	\N	alternative
+tt0000063	0	Dessinateur express	FR	\N	imdbDisplay
+tt0000064	1	Dessinateur: Chamberlain	\N	\N	original
+tt0000064	0	Dessinateur: Chamberlain	FR	\N	imdbDisplay
+tt0000065	1	Dessinateur: Reine Victoria	\N	\N	original
+tt0000065	0	Dessinateur: Reine Victoria	FR	\N	imdbDisplay
+tt0000066	0	Dessinateur: Von Bismark	FR	\N	imdbDisplay
+tt0000066	1	Dessinateur: Von Bismark	\N	\N	original
+tt0000067	1	Dix chapeaux en 60 secondes	\N	\N	original
+tt0000067	0	Conjurer Making Ten Hats in Sixty Seconds	US	\N	\N
+tt0000067	0	Dix chapeaux en 60 secondes	FR	\N	imdbDisplay
+tt0000068	0	Unloading the Boat	US	\N	\N
+tt0000068	0	Déchargement de bateaux au Havre	FR	\N	alternative
+tt0000068	0	Déchargement de bateaux	FR	\N	imdbDisplay
+tt0000068	1	Déchargement de bateaux	\N	\N	original
+tt0000069	0	Post No Bills	US	\N	\N
+tt0000069	0	Защита	RU	\N	imdbDisplay
+tt0000069	0	Απαγορεύεται η αφισοκόλλησις	GR	\N	imdbDisplay
+tt0000069	0	Defense Show	US	\N	\N
+tt0000069	1	Défense d'afficher	\N	\N	original
+tt0000069	0	Défense d'afficher	FR	\N	imdbDisplay
+tt0000070	0	Demolition of a Wall	CA	en	imdbDisplay
+tt0000070	0	Разрушение стены	RU	\N	imdbDisplay
+tt0000070	0	Zburzenie muru	PL	\N	imdbDisplay
+tt0000070	1	Démolition d'un mur	\N	\N	original
+tt0000070	0	En vägg rivs	FI	sv	\N
+tt0000070	0	Démolition d'un mur	FR	\N	imdbDisplay
+tt0000070	0	Зруйнування муру	UA	\N	imdbDisplay
+tt0000070	0	Falbontás	HU	\N	imdbDisplay
+tt0000070	0	Miten seinä hajotetaan	FI	\N	\N
+tt0000070	0	Demolition of a Wall	US	\N	imdbDisplay
+tt0000070	0	Demolizione di un muro	IT	\N	imdbDisplay
+tt0000070	0	Demolition of a Wall	GB	\N	imdbDisplay
+tt0000070	0	Seinän kaataminen	FI	\N	\N
+tt0000070	0	Demolición de un muro	UY	\N	\N
+tt0000070	0	Demolition of a Wall	XWW	en	imdbDisplay
+tt0000070	0	Demolição de um Muro	BR	\N	imdbDisplay
+tt0000071	0	Automobiles Starting a Race	US	\N	imdbDisplay
+tt0000071	0	Départ des automobiles	FR	\N	imdbDisplay
+tt0000071	1	Départ des automobiles	\N	\N	original
+tt0000072	0	Officers of French Army Leaving Service	US	\N	imdbDisplay
+tt0000072	1	Départ des officiers	\N	\N	original
+tt0000072	0	Départ des officiers	FR	\N	imdbDisplay
+tt0000073	1	Effets de mer sur les rochers	\N	\N	original
+tt0000073	0	Effets de mer sur les rochers	FR	\N	imdbDisplay
+tt0000073	0	Sea Breaking on the Rocks	GB	\N	imdbDisplay
+tt0000074	0	Children Playing on the Beach	GB	\N	imdbDisplay
+tt0000074	1	Enfants jouant sur la plage	\N	\N	original
+tt0000074	0	Enfants jouant sur la plage	FR	\N	imdbDisplay
+tt0000075	1	Escamotage d'une dame au théâtre Robert Houdin	\N	\N	original
+tt0000075	0	Escamotage d'une dame chez Robert-Houdin	FR	\N	alternative
+tt0000075	0	Egy hölgy eltűnése	HU	\N	imdbDisplay
+tt0000075	0	Исчезновение дамы в театре Робера Удена	RU	\N	imdbDisplay
+tt0000075	0	The Vanishing Lady	\N	\N	\N
+tt0000075	0	Znikająca kobieta	PL	\N	imdbDisplay
+tt0000075	0	ロベール＝ウーダン劇場における婦人の雲隠れ	JP	ja	imdbDisplay
+tt0000075	0	The Conjuring of a Woman at the House of Robert Houdin	US	\N	\N
+tt0000075	0	Escamotage d'une dame au théâtre Robert Houdin	FR	\N	imdbDisplay
+tt0000075	0	O Desaparecimento de uma Dama no Teatro Robert Houdin	BR	\N	imdbDisplay
+tt0000076	0	Выход Рипа и гнома	RU	\N	imdbDisplay
+tt0000076	0	Rip and the Dwarf	US	\N	\N
+tt0000076	0	Exit of Rip and the Dwarf	US	\N	imdbDisplay
+tt0000076	1	Exit of Rip and the Dwarf	\N	\N	original
+tt0000077	1	Le fakir, mystère indien	\N	\N	original
+tt0000077	0	Le fakir, mystère indien	FR	\N	imdbDisplay
+tt0000078	0	Feira de Gado na Corujeira	PT	\N	imdbDisplay
+tt0000078	1	Feira de Gado na Corujeira	\N	\N	original
+tt0000078	0	A Feira da Corujeira	PT	\N	\N
+tt0000078	0	O Mercado da Corujeira	PT	\N	\N
+tt0000079	1	La gare Saint-Lazare	\N	\N	original
+tt0000079	0	La gare Saint-Lazare	FR	\N	imdbDisplay
+tt0000080	0	Большие манёвры	RU	\N	imdbDisplay
+tt0000080	0	Manoeuvres of the French Army	GB	\N	imdbDisplay
+tt0000080	0	Grandes manoeuvres	FR	\N	imdbDisplay
+tt0000080	1	Grandes manoeuvres	\N	\N	original
+tt0000081	0	Les haleurs de bateaux	FR	\N	imdbDisplay
+tt0000081	1	Les haleurs de bateaux	\N	\N	original
+tt0000081	0	Towing a Boat on the River	US	\N	imdbDisplay
+tt0000082	0	A Hard Wash	US	\N	imdbDisplay
+tt0000082	1	A Hard Wash	\N	\N	original
+tt0000082	0	A Pickaninny's Battle	US	\N	alternative
+tt0000083	0	Die Indiskreten	DE	\N	\N
+tt0000083	1	Les indiscrets	\N	\N	original
+tt0000083	0	Les indiscrets	FR	\N	imdbDisplay
+tt0000083	0	The Peeping Toms	GB	\N	imdbDisplay
+tt0000084	0	The Drunkards	GB	\N	imdbDisplay
+tt0000084	1	Les ivrognes	\N	\N	original
+tt0000084	0	Les ivrognes	FR	\N	imdbDisplay
+tt0000085	0	Gardener Burning Weeds	US	\N	\N
+tt0000085	0	Jardinier brûlant des herbes	FR	\N	imdbDisplay
+tt0000085	1	Jardinier brûlant des herbes	\N	\N	original
+tt0000086	0	Beach and Pier at Trouville, 1st part	US	\N	\N
+tt0000086	0	Jetée et plage de Trouville (1er partie)	FR	\N	imdbDisplay
+tt0000086	1	Jetée et plage de Trouville (1er partie)	\N	\N	original
+tt0000087	0	Jetée et plage de Trouville (2e partie)	FR	\N	imdbDisplay
+tt0000087	1	Jetée et plage de Trouville (2e partie)	\N	\N	original
+tt0000087	0	Beach and Pier at Trouville, 2nd part	US	\N	\N
+tt0000088	1	Jour de marché à Trouville	\N	\N	original
+tt0000088	0	Jour de marché à Trouville	FR	\N	imdbDisplay
+tt0000088	0	Market Day	US	\N	\N
+tt0000089	0	Vonattal Jeruzsálemből	HU	\N	imdbDisplay
+tt0000089	1	Départ de Jérusalem en chemin de fer	\N	\N	original
+tt0000089	0	Départ de Jérusalem en chemin de fer	FR	\N	imdbDisplay
+tt0000089	0	Отъезд из Иерусалима по железной дороге	RU	\N	imdbDisplay
+tt0000089	0	Juna lähtee Jerusalemista	FI	\N	\N
+tt0000089	0	Tåget avgår från Jerusalem	FI	sv	\N
+tt0000089	0	Leaving Jerusalem by Railway	XWW	en	\N
+tt0000089	0	Wyjezdzajac z Jerozolimy koleja zelazna	PL	\N	imdbDisplay
+tt0000090	0	Breaking Up of the Territorial Army	GB	\N	imdbDisplay
+tt0000090	1	Libération des territoriaux	\N	\N	original
+tt0000090	0	Libération des territoriaux	FR	\N	imdbDisplay
+tt0000091	1	Le manoir du diable	\N	\N	original
+tt0000091	0	Замок дьявола	RU	\N	imdbDisplay
+tt0000091	0	The Haunted Castle	NO	\N	imdbDisplay
+tt0000091	0	Le manoir du diable	FR	\N	imdbDisplay
+tt0000091	0	Az ördög kastélya	HU	\N	imdbDisplay
+tt0000091	0	The Devil's Castle	XEU	en	\N
+tt0000091	0	The House of the Devil	US	\N	\N
+tt0000091	0	The Manor of the Devil	\N	\N	\N
+tt0000091	0	Manor of the Devil	\N	\N	\N
+tt0000091	0	Rezydencja diabła	PL	\N	imdbDisplay
+tt0000091	0	O Solar do Diabo	BR	\N	imdbDisplay
+tt0000091	0	Уклети замак	RS	\N	imdbDisplay
+tt0000091	0	Замок диявола	UA	\N	imdbDisplay
+tt0000091	0	The Devil's Manor	\N	\N	\N
+tt0000091	0	悪魔の館	JP	ja	imdbDisplay
+tt0000091	0	La mansión del diablo	ES	\N	imdbDisplay
+tt0000091	0	The Haunted Castle	US	\N	dvd
+tt0000092	0	Marée montante sur Brise-Larmes	FR	\N	imdbDisplay
+tt0000092	0	Tide Rising Over the Breakwater	GB	\N	imdbDisplay
+tt0000092	1	Marée montante sur Brise-Larmes	\N	\N	original
+tt0000093	0	Мельбурн	RU	\N	imdbDisplay
+tt0000093	1	Melbourne	\N	\N	original
+tt0000093	0	Melbourne	FR	\N	imdbDisplay
+tt0000094	0	Miss de Vere	FR	\N	imdbDisplay
+tt0000094	1	Miss de Vere	\N	\N	original
+tt0000094	0	Miss de Vere (gigue anglaise)	FR	\N	alternative
+tt0000095	0	Le papier protée	FR	\N	imdbDisplay
+tt0000095	0	The Mysterious Paper	US	\N	\N
+tt0000095	1	Le papier protée	\N	\N	original
+tt0000096	0	Place Saint-Augustin	FR	\N	imdbDisplay
+tt0000096	1	Place Saint-Augustin	\N	\N	original
+tt0000097	0	Place de l'Opéra, First View	US	\N	\N
+tt0000097	1	Place de l'Opéra, 1er aspect	\N	\N	original
+tt0000097	0	Place de l'Opéra, 1er aspect	FR	\N	imdbDisplay
+tt0000098	0	Place de l'Opéra, Second View	US	\N	\N
+tt0000098	0	Place de l'Opéra, 2e aspect	FR	\N	imdbDisplay
+tt0000098	1	Place de l'Opéra, 2e aspect	\N	\N	original
+tt0000099	1	Place de la Bastille	\N	\N	original
+tt0000099	0	Place de la Bastille	FR	\N	imdbDisplay
+tt0000099	0	Площадь Бастилии	RU	\N	imdbDisplay
+tt0000100	1	Place de la Concorde	\N	\N	original
+tt0000100	0	Place de la Concorde	FR	\N	imdbDisplay
+tt0000100	0	A párizsi Concorde tér	HU	\N	imdbDisplay
+tt0000100	0	Площадь Согласия	RU	\N	imdbDisplay
